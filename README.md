@@ -2,6 +2,10 @@
 
 A Python program that helps users find recipes based on the ingredients they have on hand. This tool is designed for intermediate Python learners to practice file handling, JSON parsing, and conditional logic.
 
+## Description
+
+This program is based on a web application with Mediterranean recipes that I developed during my degree. The objective of the original application was to help users find possible recipes they could make using ingredients they already have at home. This Python version serves as a simplified, standalone tool for ingredient-based recipe searching.
+
 ## Features
 
 - **Ingredient-Based Recipe Search**: Enter a list of available ingredients, and the program will display recipes that can be made with those ingredients.
@@ -11,7 +15,7 @@ A Python program that helps users find recipes based on the ingredients they hav
 ## Requirements
 
 - Python 3.x
-- `recipes.json` file containing recipe data (formatted as per project requirements)
+- `recipes.json` file containing recipe data 
 
 ## Installation
 
